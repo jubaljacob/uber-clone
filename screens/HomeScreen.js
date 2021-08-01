@@ -38,7 +38,7 @@ const HomeScreen = () => {
                     }}
 
                 
-                    nearbyPlacesAPI="GooglePlacesSearch"
+                    nearbyPlacesAPI ="GooglePlacesSearch"
                     debounce={400}
                 />
   
